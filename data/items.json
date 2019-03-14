@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Hot Lemon Wax",
+        "type": "Chili",
+        "color": ["Yellow"]
+    },
+    {
+        "id": 2,
+        "name": "Carolina Reaper",
+        "type": "Chili",
+        "color": ["Red"]
+    },
+    {
+        "id": 3,
+        "name": "Habanero",
+        "type": "Chili",
+        "color": ["Red", "Yellow", "White"]
+    },
+    {
+        "id": 4,
+        "name": "Piri piri",
+        "type": "Chili",
+        "color": ["Red"]
+    },
+    {
+        "id": 5,
+        "name": "Poblano",
+        "type": "Chili",
+        "color": ["Red", "Green"]
+    },
+    {
+        "id": 6,
+        "name": "Serrano",
+        "type": "Chili",
+        "color": ["Green"]
+    },
+    {
+        "id": 7,
+        "name": "Djungelgurka",
+        "type": "Gurka",
+        "color": ["Green"]
+    }
+]
